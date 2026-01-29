@@ -21,7 +21,7 @@ body {
   justify-content: center;
 }
 
-/* Font Awesome Icons */
+
 .fas,
 .far {
   font-size: 25px;
@@ -50,7 +50,7 @@ body {
   color: rgb(223, 37, 37);
 }
 
-/* Tools */
+
 .active-tool {
   position: absolute;
   top: 9px;
@@ -99,7 +99,7 @@ body {
   user-select: none;
 }
 
-/* Custom Slider */
+
 .slider {
   -webkit-appearance: none;
   position: relative;
@@ -132,7 +132,7 @@ body {
   background: rgb(47, 47, 47);
 }
 
-/* JS Color */
+
 .jscolor {
   border-style: solid;
   border-radius: 5px;
